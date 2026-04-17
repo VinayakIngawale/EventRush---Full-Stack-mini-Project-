@@ -1,7 +1,6 @@
 # EventRush---Full-Stack-mini-Project
 
-***this is largely made with AI for frontend and some backend (basically prompted)!! If occured with any issue please sort it out using your preffered AI ChatBot
-    as the project is tried and tested, if any there willbe issue with your connections only. see the images in notes***
+***this is largely made with AI for frontend and some backend (basically prompted)!! If you encounter any issues, please try resolving them using your preferred AI chatbot, as the project has already been tested. Any problems are likely due to your connection. see the images in notes for reference***
 
 
 A Full-Stack Web Application. Architected and developed a full-stack web application designed to centralize and simplify the discovery of local community sporting events.
